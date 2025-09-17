@@ -55,3 +55,7 @@ a, .atributo{
     font-weight: 300px;
     font-size: 20px;
 }
+
+.botao:hover {
+    color: aqua;
+}
